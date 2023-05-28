@@ -41,7 +41,7 @@
     "lodash": "^3.8.0",
     "mcfly": "0.0.10",
     "menubar": "^4.1.1",
-    "moment": "^2.10.3",
+    "moment": "^2.29.4",
     "react": "^0.13.2",
     "react-router": "^0.13.3",
     "request-promise": "^0.4.2",
