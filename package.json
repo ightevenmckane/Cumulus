@@ -45,6 +45,6 @@
     "react": "^0.13.2",
     "react-router": "^0.13.3",
     "request-promise": "^0.4.2",
-    "semver": "^5.1.0"
+    "semver": "^7.5.2"
   }
 }
